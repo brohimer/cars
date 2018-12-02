@@ -6,4 +6,4 @@ In this bash script, the user is prompted with three options:
 2. List the Cars
 Q. Quit
 
-If the user enters "1", the 
+If the user enters "1," the 
